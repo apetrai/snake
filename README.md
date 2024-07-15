@@ -1,2 +1,2 @@
 # snake
-Classical snake made using Vulkan.
+Classical snake made using SFML.
